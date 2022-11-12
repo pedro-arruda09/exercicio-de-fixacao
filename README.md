@@ -12,6 +12,8 @@ Classes e relacionamentos
 
 Com base no diagrama UML abaixo, implemente as 4 classes em Java.
 
+![diagrama-uml](https://user-images.githubusercontent.com/105317826/201497575-05d45b8f-4808-47e6-a2ba-c49fbe833b71.jpeg)
+
 Produto
 implemente os métodos get/set para cada atributo
 Cliente
